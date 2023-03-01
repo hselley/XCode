@@ -63,8 +63,10 @@ struct RestaurantListView: View {
 struct RestaurantListView_Previews: PreviewProvider {
     static var previews: some View {
         RestaurantListView()
+            .previewDisplayName("Light Side")
         
         RestaurantListView()
+            .previewDisplayName("Dark Side")
             .preferredColorScheme(.dark)
     }
 }
