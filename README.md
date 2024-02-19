@@ -2,6 +2,7 @@
 
 Este repositorio contiene proyectos ejemplo que se utilizan
 en la clase de Programación de Dispositivos Móviles 2.
+Semestre Enero-Mayo 2023
 
 La autoría de los proyectos corresponde a:
 
